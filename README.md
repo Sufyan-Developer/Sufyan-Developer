@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sufyan-Developer
+- 👋 Hi, I’m @sufyan-ahmed
 - 👀 I’m interested in Website development
 - 🌱 I’m currently learning Back-end of website
 - 💞️ I’m looking to collaborate on programming
